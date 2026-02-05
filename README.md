@@ -56,13 +56,18 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilreiro21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilreiro21&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bilreiro21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Bilreiro21's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilreiro21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Bilreiro21/count.svg" alt="visitor badge"/>
+  <img src="https://profile-counter.glitch.me/Bilreiro21/count.svg" alt="visitor badge" />
 </div>
 
 <div align="center">
